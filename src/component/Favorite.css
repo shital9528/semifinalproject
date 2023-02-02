@@ -1,0 +1,19 @@
+
+
+
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    background-color: aquamarine;
+}
+.btns3{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    display: flex;
+    color: red;
+    height: 20px;
+    
+}

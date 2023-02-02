@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btns2{
+    position: absolute;
+    top: 0px;
+    left: 280px;
+    display: flex;
+    height: 50px;
+    
+}
+
+/* .btn2{
+    background: transparent;
+    border: none;
+    margin: 87px;
+    font-size: 88px;
+    outline: none;
+    color: grey;
+} */
